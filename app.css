@@ -34,7 +34,7 @@ p{
     box-shadow: 11px 10px 47px 10px rgba(0,0,0,0.75);
 }
 .logo{
-    color: #C32D34;
+    color: #9A031C;
 }
 .hover {
     border-radius: 50%;
@@ -44,11 +44,11 @@ p{
 
 .hover:hover {
     color: white;
-    background: #C32D34;
+    background: #9A031C;
 }
 @media (min-width: 500px){
     .slider2 {
-        background: rgba(255, 0, 0, 0.5);
+        background-image: url("https://i.pinimg.com/originals/d8/0b/8d/d80b8dda0fa0a66a0686bb68a914cdc8.jpg");
         background-size: cover;
         background-position: center;
         height: 900px;

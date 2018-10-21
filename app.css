@@ -1,5 +1,5 @@
 .slider {
-    background: rgba(255, 0, 0, 0.5);
+    background-image: url("https://i.pinimg.com/originals/d8/0b/8d/d80b8dda0fa0a66a0686bb68a914cdc8.jpg");
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -17,9 +17,12 @@ p{
 .square {
     background: white;
     width: 320px;
+    -webkit-box-shadow: 11px 10px 47px 10px rgba(0,0,0,0.75);
+    -moz-box-shadow: 11px 10px 47px 10px rgba(0,0,0,0.75);
+    box-shadow: 11px 10px 47px 10px rgba(0,0,0,0.75);
 }
 .logo{
-    color: rgba(255, 0, 0, 0.5);
+    color: #C32D34;
 }
 .hover {
     border-radius: 50%;
@@ -29,7 +32,7 @@ p{
 
 .hover:hover {
     color: white;
-    background: rgba(255, 0, 0, 0.5);
+    background: #C32D34;
 }
 @media (min-width: 500px){
     .slider2 {
